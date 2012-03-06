@@ -8,5 +8,5 @@ setup(name='gethosts',
       author='Jason Robinson',
       author_email='jaywink@basshero.org',
       url='http://www.basshero.org/',
-      scripts=['gethosts/gethosts.py']
+      scripts=['gethosts']
      )
